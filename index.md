@@ -14,6 +14,8 @@
 
 [产品需求文档](https://shimo.im/docs/1Eaaby4ENIMhwtyK/)
 
+[项目文档](https://shimo.im/docs/BswWTJtBJkox7Wd0/)
+
 ### 人员责任划分
 
 | 人员   | 方向 | 职责                  |
