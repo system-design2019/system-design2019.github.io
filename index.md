@@ -1,22 +1,22 @@
 ### 项目文档查看
 
-[项目规划](https://system-design2019.github.io/files/About)
-
-[团队组建](https://system-design2019.github.io/files/Team_profile)
-
-[项目前期调研](https://system-design2019.github.io/files/Investigation)
-
-[项目愿景](https://system-design2019.github.io/files/Vison)
-
-[产品特性](https://system-design2019.github.io/files/Product_Backlog)
-
-[会议记录](https://system-design2019.github.io/files/Meeting_record)
-
-[产品需求文档](https://shimo.im/docs/1Eaaby4ENIMhwtyK/)
-
-[项目文档](https://shimo.im/docs/BswWTJtBJkox7Wd0/)
-
-[api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
+- 1、[About(项目概况)](https://system-design2019.github.io/files/About)
+- 2、[Team profile(团队组建)](https://system-design2019.github.io/files/Team_profile)
+- 3、[Investigation(项目前期调研)](https://system-design2019.github.io/files/Investigation)
+- 4、[Vision(项目愿景)](https://system-design2019.github.io/files/Vison)
+- 5、[Product backlog(产品特性)](https://system-design2019.github.io/files/Product_Backlog)
+- 6、[Requirement specification(需求规格说明书)]
+- 7、[设计说明书]
+- 8、[生产规范与指南]
+- 9、[成品展示]
+- X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
+- X2 [kanban]
+- X3 [auditing-records]
+- X4 [Tech/Work Report]
+- X5 [Final Report]
+- X6 
+  - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
+  - [产品需求文档](https://shimo.im/docs/1Eaaby4ENIMhwtyK/)
 
 ### 人员责任划分
 
