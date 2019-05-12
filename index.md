@@ -17,6 +17,7 @@
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [产品需求文档](https://shimo.im/docs/1Eaaby4ENIMhwtyK/)
+  - [api.md](https://github.com/system-design2019/system-design/blob/master/backend/API.md)
 
 ### 人员责任划分
 
