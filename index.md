@@ -35,6 +35,7 @@
 - X5 [Final Report]
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
+  - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
   - [产品需求文档](https://shimo.im/docs/1Eaaby4ENIMhwtyK/)
   - [api.md](https://github.com/system-design2019/system-design/blob/master/backend/API.md)
 
