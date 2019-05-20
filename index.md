@@ -1,14 +1,33 @@
 ### 项目文档查看
 
-- 1、[About(项目概况)](https://system-design2019.github.io/files/About)
-- 2、[Team profile(团队组建)](https://system-design2019.github.io/files/Team_profile)
-- 3、[Investigation(项目前期调研)](https://system-design2019.github.io/files/Investigation)
-- 4、[Vision(项目愿景)](https://system-design2019.github.io/files/Vison)
-- 5、[Product backlog(产品特性)](https://system-design2019.github.io/files/Product_Backlog)
-- 6、[Requirement specification(需求规格说明书)]
-- 7、[设计说明书]
-- 8、[生产规范与指南]
-- 9、[成品展示]
+- 1、[About](https://system-design2019.github.io/files/About)(项目概况)
+- 2、[Team profile](https://system-design2019.github.io/files/Team_profile)(团队组建)
+- 3、[Investigation](https://system-design2019.github.io/files/Investigation)(项目前期调研)
+- 4、[Vision](https://system-design2019.github.io/files/Vison)(项目愿景)
+- 5、[Product backlog](https://system-design2019.github.io/files/Product_Backlog)(产品特性)
+- 6、Requirement specification(需求规格说明书)
+  - 6.1 [Usecase Diagram and UML Activity Diagram]()(用例图，业务流程/多泳道图)
+  - 6.2 [Use Cases]()(用例+活动图)
+  - 6.3 [Domain Models]()(领域模型)
+  - 6.4 [State Models]()(状态模型)
+  - 6.5 [System Suquence Diagrams]()(功能模型)
+  - 6.5 [Supplementay Requirements]()(补充需求)
+- 7、Design
+  - 7.1 [UI design]()(界面设计)
+  - 7.2 [Database design]()(数据库设计)
+  - 7.3 [Interface API design]()(接口API设计)
+  - 7.4 [Architecture design]()(架构设计)
+  - 7.5 [Usecase design]()(用例设计)
+- 8、生产规范与指南
+  - 8.1 代码规范
+    - 8.1.1 [frontend]()(前端代码规范)
+    - 8.1.2 [backend]()(后台代码规范)
+  - 8.2 [REST API 设计规范]()
+  - 8.3 [Arche]()(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
+  - 8.4 部署说明
+- 9、成品展示
+  - 9.1 xx短视频
+  - 9.2 xx短视频
 - X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
 - X2 [kanban]
 - X3 [auditing-records]
