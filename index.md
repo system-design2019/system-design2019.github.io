@@ -22,14 +22,14 @@
   - 8.1 代码规范
     - 8.1.1 [frontend]()(前端代码规范)
     - 8.1.2 [后端规范](https://java.timoney.xyz)
-      - 8.1.2.1 [Java编码规范](https://java.timoney.xyz/p3c-gitbook/bian-cheng-gui-yue)
-      - 8.1.2.1 [异常日志](https://java.timoney.xyz/p3c-gitbook/yi-chang-ri-zhi)
-      - 8.1.2.3 [单元测试](https://java.timoney.xyz/p3c-gitbook/dan-yuan-ce-shi)
-      - 8.1.2.4 [安全规约](https://java.timoney.xyz/p3c-gitbook/an-quan-gui-yue)
-      - 8.1.2.5 [数据库设计规范](https://java.timoney.xyz/p3c-gitbook/mysql-shu-ju-ku)
-      - 8.1.2.6 [工程结构规范](https://java.timoney.xyz/p3c-gitbook/gong-cheng-jie-gou)
-  - 8.2 [REST API 设计规范]()
-  - 8.3 [Arche]()(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
+      - 8.1.2.1 [Java编码规范](https://java.timoney.xyz/bian-cheng-gui-yue)
+      - 8.1.2.1 [异常日志](https://java.timoney.xyz/yi-chang-ri-zhi)
+      - 8.1.2.3 [单元测试](https://java.timoney.xyz/dan-yuan-ce-shi)
+      - 8.1.2.4 [安全规约](https://java.timoney.xyz/an-quan-gui-yue)
+      - 8.1.2.5 [数据库设计规范](https://java.timoney.xyz/mysql-shu-ju-ku)
+      - 8.1.2.6 [工程结构规范](https://java.timoney.xyz/gong-cheng-jie-gou)
+  - 8.2 [REST API 设计规范](https://java.timoney.xyz/qi-restful-she-ji-gui-fan)
+  - 8.3 [Arche](https://java.timoney.xyz/gong-cheng-jie-gou)(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
   - 8.4 部署说明
 - 9、成品展示
   - 9.1 xx短视频
