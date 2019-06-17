@@ -7,7 +7,7 @@
 - 5、[Product backlog](https://system-design2019.github.io/files/Product_Backlog)(产品特性)
 - 6、Requirement specification(需求规格说明书)
   - 6.1 [Usecase Diagram and UML Activity Diagram](https://system-design2019.github.io/files/Usecase_total)(用例图，业务流程/多泳道图)
-  - 6.2 [Use Cases]()(用例+活动图)
+  - 6.2 [Use Cases](https://system-design2019.github.io/files/Usecases)(用例+活动图)
   - 6.3 [Domain Models]()(领域模型)
   - 6.4 [State Models]()(状态模型)
   - 6.5 [System Suquence Diagrams]()(功能模型)
