@@ -14,7 +14,7 @@
   - 6.5 [Supplementay Requirements]()(补充需求)
 - 7、Design
   - 7.1 [UI design]()(界面设计)
-  - 7.2 [Database design]()(数据库设计)
+  - 7.2 [Database design](https://github.com/system-design2019/files/blob/master/database_design.md)(数据库设计)
   - 7.3 [Interface API design]()(接口API设计)
   - 7.4 [Architecture design]()(架构设计)
   - 7.5 [Usecase design]()(用例设计)
